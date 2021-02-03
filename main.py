@@ -12,11 +12,35 @@ t=input("To: ")
 age=input("Enter the age of the birthday boy/girl: ")
 os.system('cls')
 print(f'''
-Happy birthday, {t}. 
-I would have made today a public holiday because you are a rare breed but let’s leave that for another day. 
-To my one and only, you deserve the blessings showered on you and many other benefits that God will unleash on you. 
-Smile today and every other day of your life on earth.
-From the one crazy friend named {f}. Wish you a happy Birthday again
+                                                                                                                                                   
+        ,--,                                                                                                                                       
+      ,--.'|                                                      ,---,.                      ___      ,---,                                       
+   ,--,  | :            ,-.----.  ,-.----.                      ,'  .'  \  ,--,             ,--.'|_  ,--.' |          ,---,                        
+,---.'|  : '            \    /  \ \    /  \                   ,---.' .' |,--.'|    __  ,-.  |  | :,' |  |  :        ,---.'|                        
+|   | : _' |            |   :    ||   :    |                  |   |  |: ||  |,   ,' ,'/ /|  :  : ' : :  :  :        |   | :                        
+:   : |.'  |  ,--.--.   |   | .\ :|   | .\ :     .--,         :   :  :  /`--'_   '  | |' |.;__,'  /  :  |  |,--.    |   | |   ,--.--.        .--,  
+|   ' '  ; : /       \  .   : |: |.   : |: |   /_ ./|         :   |    ; ,' ,'|  |  |   ,'|  |   |   |  :  '   |  ,--.__| |  /       \     /_ ./|  
+'   |  .'. |.--.  .-. | |   |  \ :|   |  \ :, ' , ' :         |   :     \'  | |  '  :  /  :__,'| :   |  |   /' : /   ,'   | .--.  .-. | , ' , ' :  
+|   | :  | ' \__\/: . . |   : .  ||   : .  /___/ \: |         |   |   . ||  | :  |  | '     '  : |__ '  :  | | |.   '  /  |  \__\/: . ./___/ \: |  
+'   : |  : ; ," .--.; | :     |`-':     |`-'.  \  ' |         '   :  '; |'  : |__;  : |     |  | '.'||  |  ' | :'   ; |:  |  ," .--.; | .  \  ' |  
+|   | '  ,/ /  /  ,.  | :   : :   :   : :    \  ;   :         |   |  | ; |  | '.'|  , ;     ;  :    ;|  :  :_:,'|   | '/  ' /  /  ,.  |  \  ;   :  
+;   : ;--' ;  :   .'   \|   | :   |   | :     \  \  ;         |   :   /  ;  :    ;---'      |  ,   / |  | ,'    |   :    :|;  :   .'   \  \  \  ;  
+|   ,/     |  ,     .-./`---'.|   `---'.|      :  \  \        |   | ,'   |  ,   /            ---`-'  `--''       \   \  /  |  ,     .-./   :  \  \ 
+'---'       `--`---'      `---`     `---`       \  ' ;        `----'      ---`-'                                  `----'    `--`---'        \  ' ; 
+                                                 `--`                                                                                        `--`   
+                 I would have made today a public holiday because you are a rare breed but let’s leave that for another day. 
+            To my one and only, you deserve the blessings showered on you and many other benefits that God will unleash on you. 
+        Smile today and every other day of your life on earth.
+                                            To the one crazy friend, {t}
+                                            From an even crazier friend, {f}
+                                            Wish you a happy Birthday again
+                                            ╮╭╭╮┏╮┏╮╮╭
+                                            ┣┫┣┫┣╯┣╯╰┫  ☆
+                                            ╯╯╯╯╯╯╯╯╰╯╭━┻━╮
+                                            ┏╮┊┏╮╭╮╮╭╭┻━━━┻╮
+                                            ┣┫┊┃┃┣┫╰┫┣╮╭╮╭╮┃
+                                            ┗╯┊┗╯╯╯╰╯┃╰╯╰╯╰┫
+                                            ━━━━━━━━━╯╳╳╳╳╳╰
 ''')
 time.sleep(1)
 print('''
