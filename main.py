@@ -16,3 +16,7 @@ To my one and only, you deserve the blessings showered on you and many other ben
 Smile today and every other day of your life on earth.
 From the one crazy friend named {f}. Wish you a happy Birthday again
 ''')
+time.sleep(3)
+with open("cake.txt") as f:
+    cake=f.read()
+print(cake)
